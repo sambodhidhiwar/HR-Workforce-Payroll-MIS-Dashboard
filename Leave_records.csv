@@ -1,0 +1,131 @@
+LeaveID,EmployeeID,LeaveType,Days,Status
+L001,EMP001,Sick Leave,2,Approved
+L004,EMP004,Earned Leave,5,Approved
+L007,EMP007,Sick Leave,4,Approved
+L009,EMP009,Maternity/Paternity,3,Approved
+L011,EMP011,Casual Leave,1,Approved
+L013,EMP013,Earned Leave,1,Approved
+L017,EMP017,Maternity/Paternity,1,Approved
+L019,EMP019,Earned Leave,2,Approved
+L020,EMP020,Sick Leave,4,Approved
+L022,EMP022,Maternity/Paternity,2,Approved
+L027,EMP027,Maternity/Paternity,1,Approved
+L030,EMP030,Maternity/Paternity,4,Approved
+L031,EMP031,Casual Leave,4,Approved
+L035,EMP035,Maternity/Paternity,3,Approved
+L037,EMP037,Casual Leave,5,Approved
+L038,EMP038,Casual Leave,5,Approved
+L041,EMP041,Maternity/Paternity,1,Approved
+L042,EMP042,Sick Leave,4,Approved
+L044,EMP044,Sick Leave,4,Approved
+L046,EMP046,Earned Leave,5,Approved
+L049,EMP049,Sick Leave,2,Approved
+L050,EMP050,Maternity/Paternity,4,Approved
+L051,EMP051,Earned Leave,3,Approved
+L053,EMP053,Casual Leave,4,Approved
+L055,EMP055,Earned Leave,1,Approved
+L058,EMP058,Casual Leave,4,Approved
+L061,EMP061,Casual Leave,1,Approved
+L062,EMP062,Maternity/Paternity,2,Approved
+L063,EMP063,Earned Leave,4,Approved
+L064,EMP064,Sick Leave,4,Approved
+L068,EMP068,Sick Leave,5,Approved
+L070,EMP070,Earned Leave,1,Approved
+L071,EMP071,Earned Leave,1,Approved
+L073,EMP073,Earned Leave,1,Approved
+L074,EMP074,Maternity/Paternity,2,Approved
+L081,EMP081,Earned Leave,3,Approved
+L082,EMP082,Sick Leave,1,Approved
+L084,EMP084,Earned Leave,2,Approved
+L085,EMP085,Earned Leave,4,Approved
+L086,EMP086,Sick Leave,4,Approved
+L087,EMP087,Maternity/Paternity,1,Approved
+L088,EMP088,Casual Leave,2,Approved
+L089,EMP089,Earned Leave,3,Approved
+L090,EMP090,Sick Leave,3,Approved
+L092,EMP092,Casual Leave,3,Approved
+L093,EMP093,Maternity/Paternity,3,Approved
+L096,EMP096,Sick Leave,4,Approved
+L097,EMP097,Casual Leave,3,Approved
+L098,EMP098,Earned Leave,2,Approved
+L099,EMP099,Maternity/Paternity,3,Approved
+L103,EMP103,Earned Leave,4,Approved
+L108,EMP108,Maternity/Paternity,5,Approved
+L111,EMP111,Casual Leave,4,Approved
+L113,EMP113,Casual Leave,3,Approved
+L116,EMP116,Earned Leave,3,Approved
+L117,EMP117,Casual Leave,1,Approved
+L119,EMP119,Earned Leave,3,Approved
+L120,EMP120,Casual Leave,2,Approved
+L121,EMP121,Maternity/Paternity,1,Approved
+L126,EMP126,Casual Leave,3,Approved
+L127,EMP127,Sick Leave,4,Approved
+L131,EMP131,Sick Leave,3,Approved
+L132,EMP132,Casual Leave,1,Approved
+L135,EMP135,Sick Leave,5,Approved
+L136,EMP136,Casual Leave,1,Approved
+L140,EMP140,Casual Leave,3,Approved
+L147,EMP147,Earned Leave,2,Approved
+L148,EMP148,Maternity/Paternity,3,Approved
+L149,EMP149,Earned Leave,1,Approved
+L150,EMP150,Casual Leave,2,Approved
+L152,EMP152,Maternity/Paternity,2,Approved
+L153,EMP153,Casual Leave,4,Approved
+L155,EMP155,Sick Leave,1,Approved
+L156,EMP156,Maternity/Paternity,4,Approved
+L157,EMP157,Casual Leave,1,Approved
+L159,EMP159,Maternity/Paternity,3,Approved
+L161,EMP161,Casual Leave,1,Approved
+L163,EMP163,Maternity/Paternity,5,Approved
+L165,EMP165,Sick Leave,3,Approved
+L166,EMP166,Casual Leave,5,Approved
+L168,EMP168,Sick Leave,3,Approved
+L171,EMP171,Earned Leave,1,Approved
+L172,EMP172,Maternity/Paternity,4,Approved
+L173,EMP173,Casual Leave,3,Approved
+L177,EMP177,Sick Leave,2,Approved
+L178,EMP178,Casual Leave,2,Approved
+L179,EMP179,Maternity/Paternity,2,Approved
+L181,EMP181,Sick Leave,2,Approved
+L183,EMP183,Earned Leave,4,Approved
+L184,EMP184,Casual Leave,1,Approved
+L186,EMP186,Casual Leave,2,Approved
+L187,EMP187,Maternity/Paternity,5,Approved
+L188,EMP188,Maternity/Paternity,4,Approved
+L189,EMP189,Maternity/Paternity,3,Approved
+L190,EMP190,Maternity/Paternity,4,Approved
+L192,EMP192,Sick Leave,4,Approved
+L194,EMP194,Earned Leave,2,Approved
+L197,EMP197,Casual Leave,2,Approved
+L198,EMP198,Casual Leave,2,Approved
+L199,EMP199,Casual Leave,5,Approved
+L200,EMP200,Earned Leave,1,Approved
+L201,EMP201,Earned Leave,1,Approved
+L202,EMP202,Sick Leave,2,Approved
+L204,EMP204,Sick Leave,2,Approved
+L205,EMP205,Earned Leave,3,Approved
+L209,EMP209,Earned Leave,3,Approved
+L210,EMP210,Casual Leave,4,Approved
+L213,EMP213,Casual Leave,1,Approved
+L214,EMP214,Maternity/Paternity,4,Approved
+L217,EMP217,Maternity/Paternity,3,Approved
+L218,EMP218,Maternity/Paternity,1,Approved
+L219,EMP219,Maternity/Paternity,4,Approved
+L220,EMP220,Sick Leave,1,Approved
+L222,EMP222,Maternity/Paternity,1,Approved
+L224,EMP224,Maternity/Paternity,3,Approved
+L225,EMP225,Maternity/Paternity,3,Approved
+L227,EMP227,Casual Leave,2,Approved
+L228,EMP228,Maternity/Paternity,3,Approved
+L229,EMP229,Casual Leave,3,Approved
+L233,EMP233,Sick Leave,2,Approved
+L234,EMP234,Earned Leave,3,Approved
+L236,EMP236,Casual Leave,1,Approved
+L238,EMP238,Maternity/Paternity,1,Approved
+L240,EMP240,Sick Leave,2,Approved
+L241,EMP241,Casual Leave,3,Approved
+L244,EMP244,Earned Leave,4,Approved
+L245,EMP245,Maternity/Paternity,3,Approved
+L246,EMP246,Casual Leave,2,Approved
+L249,EMP249,Maternity/Paternity,1,Approved
+L250,EMP250,Earned Leave,3,Approved
