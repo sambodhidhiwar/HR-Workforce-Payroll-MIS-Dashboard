@@ -1,12 +1,13 @@
-# HR Workforce & Payroll MIS Dashboard
+<img width="1536" height="1024" alt="SS" src="https://github.com/user-attachments/assets/a669d5b0-e10c-4d5f-9e65-f397e227cbb7" /><img width="1536" height="1024" alt="SS" src="https://github.com/user-attachments/assets/2e3f884a-93d3-4684-bff9-f50f68072efb" /># HR Workforce & Payroll MIS Dashboard
 
 ## Project Overview
 
 This project demonstrates an end-to-end HR Management Information System (MIS) built using **MySQL**, **SQL**, **Power BI**, and **Excel**.
 
 The objective is to manage and analyze HR data including employees, payroll, attendance, leave records, and departmental information through an interactive Power BI dashboard.
+<img src=""C:\Users\Sambodhi Dhiwar\Downloads\Data Science Classroom\Projects DA\HR_Payroll_Sambodhi_Dhiwar\SS.png"">
 
-![Uploading SS.png…]()
+
 
 
 ---
