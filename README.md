@@ -6,6 +6,9 @@ This project demonstrates an end-to-end HR Management Information System (MIS) b
 
 The objective is to manage and analyze HR data including employees, payroll, attendance, leave records, and departmental information through an interactive Power BI dashboard.
 
+![Uploading SS.png…]()
+
+
 ---
 
 ## Technologies Used
