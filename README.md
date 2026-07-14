@@ -1,8 +1,8 @@
 HR-Workforce-Payroll-MIS-Dashboard
 
 
-<img width="1536" height="1024" alt="SS" src="<img width="1274" height="712" alt="image" src="https://github.com/user-attachments/assets/70a4ed16-6bf8-4172-b764-61f82adf66c9" />
-" />
+<img width="1274" height="712" alt="image" src="https://github.com/user-attachments/assets/70a4ed16-6bf8-4172-b764-61f82adf66c9" />
+
 
 ## Project Overview
 
